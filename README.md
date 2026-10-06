@@ -30,6 +30,10 @@ Staff describe a student's needs and the problem they face, and EddyAI drafts a 
 A CV builder with recruiter-style scoring, CV tailoring, interview practice and a job tracker, with free and Premium plans. The server verifies every request's login token, enforces usage limits and handles Stripe subscriptions.
 `Node.js` `Express` `OpenAI` `Stripe` `Supabase`
 
+### [Snip](https://github.com/mubarak-jimoh/snip) · URL shortener with click statistics
+Shortens links to a random six-character code or a custom alias, counts every click and shows a seven-day chart and the top referring sites. Links can expire, link creation is rate limited per IP address, and unsafe URLs are refused.
+`Python` `Flask` `SQLite` `REST API` `Docker`
+
 ## More work
 
 - [Health Inequality Dashboard](https://github.com/mubarak-jimoh/health-inequality-dashboard): charts showing the life expectancy, education and health gaps in Medway and Kent, with every figure sourced. [Live site](https://mubarak-jimoh.github.io/health-inequality-dashboard/)
